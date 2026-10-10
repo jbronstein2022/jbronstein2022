@@ -12,19 +12,9 @@
 
 - Building full-stack apps end to end: **TypeScript / React** front ends, **Python** services, **Postgres** underneath
 - Wiring up **LLM agents**, scrapers and data pipelines that turn messy sources into usable tools
-- Shipping fast: hackathons, side projects, and a lot of commits to private repos
 
 ### Toolbox
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,python,fastapi,postgres,supabase,docker,githubactions&perline=10" alt="Tech stack" />
 </p>
-
-<details>
-<summary><b>Older public work</b></summary>
-
-- [FIFAI](https://github.com/jbronstein2022/FIFAI): FIFA + AI notebook experiments (Jupyter)
-- [Trading_NN_Proposal](https://github.com/jbronstein2022/Trading_NN_Proposal): "SixthStreetBets", a proposal for an RL trading agent driven by news and intraday data
-- [movies-with-helm](https://github.com/jbronstein2022/movies-with-helm): a movies app deployed to Kubernetes with Helm
-
-</details>
